@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+scikit-learn
+transformers
+seaborn
+matplotlib
+jupyter
+catboost
+sentencepiece
+categoty_encoders
+tqdm
